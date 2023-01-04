@@ -14,3 +14,6 @@ Follow <a href="https://prettier.io/docs/en/install.html" target="_blank">these 
 
 ## 5. Set up eslint-config-prettier to resolve conflicts
 Follow <a href="https://github.com/prettier/eslint-config-prettier#installation" target="_blank">these instructions</a>.
+
+## 6. Upon project completion...
+Follow <a href="https://gist.github.com/cobyism/4730490" target="_blank">these instructions</a>, starting at Step 2, to deploy your subfolder to GitHub Pages.
