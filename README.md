@@ -27,7 +27,7 @@ Install Babel using <a href="https://www.theodinproject.com/lessons/node-path-ja
 
 Run `npm run watch` to run tests every time you save the project. Follow <a href="https://jestjs.io/docs/webpack" target="_blank">these instructions</a> for configuring Jest with webpack.
 
-Add the following to your .eslintrc.json file:
+Add the following to your .eslintrc.json file (to override ESLint settings for jest test files):
 
 ```
     "overrides": [
