@@ -18,12 +18,11 @@ Follow <a href="https://github.com/prettier/eslint-config-prettier#installation"
 ## 6. If using Jest...
 Install Babel using <a href="https://www.theodinproject.com/lessons/node-path-javascript-testing-practice" target="_blank">these instructions</a> (under the section "Using ES6 import statements with Jest." Then install Jest by running `npm install --save-dev jest`. Add the following to your package.json file:
 
-```    {
+```
       "scripts": {
-        "test": "jest"
+        "test": "jest",
         "watch": "jest --watch *.js"
       }
-    }
 ```
 
 Run `npm run watch` to run tests every time you save the project. Follow <a href="https://jestjs.io/docs/webpack" target="_blank">these instructions</a> for configuring Jest with webpack.
