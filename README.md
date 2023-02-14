@@ -16,21 +16,14 @@ Follow <a href="https://prettier.io/docs/en/install.html" target="_blank">these 
 Follow <a href="https://github.com/prettier/eslint-config-prettier#installation" target="_blank">these instructions</a>.
 
 ## 6. If using Jest...
-Install Babel using <a href="https://www.theodinproject.com/lessons/node-path-javascript-testing-practice" target="_blank">these instructions</a> (under the section "Using ES6 import statements with Jest." Then install Jest by running `npm install --save-dev jest`. Add the following to your package.json file: 
-\
-`{
-\
-  "scripts": {
-  \
-    "test": "jest"
-    \
-    "watch": "jest --watch *.js"
-    \
-  }
-  \
-}`. 
-\
-Run `npm run watch` to run tests every time you save the project. Follow <a href="https://jestjs.io/docs/webpack" target="_blank">these instructions</a> for configuring Jest with webpack.
+Install Babel using <a href="https://www.theodinproject.com/lessons/node-path-javascript-testing-practice" target="_blank">these instructions</a> (under the section "Using ES6 import statements with Jest." Then install Jest by running `npm install --save-dev jest`. Add the following to your package.json file:\ 
+`    {
+      "scripts": {
+        "test": "jest"
+        "watch": "jest --watch *.js"
+      }
+    }`
+\Run `npm run watch` to run tests every time you save the project. Follow <a href="https://jestjs.io/docs/webpack" target="_blank">these instructions</a> for configuring Jest with webpack.
 
 ## 7. Upon project completion...
 Follow <a href="https://gist.github.com/cobyism/4730490" target="_blank">these instructions</a>, starting at Step 2, to deploy your subfolder to GitHub Pages.
