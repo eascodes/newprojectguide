@@ -6,6 +6,13 @@ Create new repo on GitHub & git clone it in the terminal.
 ## 2. Set up webpack
 Open new project folder & set up Webpack following <a href="https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page" target="_blank">these instructions</a> (everything in step 1) from the Odin Project restaurant project. Run `npx webpack --watch` so you don't have to rerun webpack every time you make a change.
 
+To run web server, navigate to project directory in the terminal and run:
+
+```
+    npm i -g serve
+    serve
+```
+
 ## 3. Set up ESLint
 Follow step 2 and step 4 of <a href="https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code" target="_blank">these instructions</a>.
 
