@@ -15,7 +15,7 @@ To run web server, navigate to project directory in the terminal and run:
 ```
 
 ## 3. Set up ESLint
-Follow step 2 and step 4 of <a href="https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code" target="_blank">these instructions</a>.
+Follow step 2 and step 4 of <a href="https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code" target="_blank">these instructions</a>. Create a `.eslintignore` file and include `main.js` and `node_modules` in it.
 
 ## 4. Set up Prettier
 Follow <a href="https://prettier.io/docs/en/install.html" target="_blank">these instructions</a>. To run Prettier upon saving, open the Visual Studio Code command palette and select `Preferences: Open User Settings`. Search for `Format on Save` setting and check the box.
