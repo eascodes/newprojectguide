@@ -82,5 +82,5 @@ Run `npm install --save-dev eslint-config-prettier`. In your `package.json` file
 ```
 
 ### 5. Upon project completion...
-Follow <a href="https://gist.github.com/cobyism/4730490" target="_blank">these instructions</a>, starting at Step 2, to deploy your subfolder to GitHub Pages.
+Follow <a href="https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e" target="_blank">these instructions</a> to deploy your project to GitHub Pages.
 
