@@ -59,11 +59,11 @@ Follow <a href="https://gist.github.com/cobyism/4730490" target="_blank">these i
 
 ## Project Option 2 - Create React App
 
-### 1. Set up repository
-Create new repo on GitHub & git clone it in the terminal.
+### 1. Set up project
+Create a React app by running `npx create-react-app <project-name>`. 
 
-### 2. Create React App
-Run `npx create-react-app your-project-title-here`.
+### 2. Set up repository
+Create an empty Github repo (do not add README.md). Connect Github repo to local project by changing into the project directory & running `git remote add origin git@github.com:<username>/<project-name>.git` (this line is displayed on Github project page under "push an existing repository from the command line."
 
 ### 3. Set up Prettier
 Follow <a href="https://prettier.io/docs/en/install.html" target="_blank">these instructions</a>. To run Prettier upon saving, open the Visual Studio Code command palette and select `Preferences: Open User Settings`. Search for `Format on Save` setting and check the box.
