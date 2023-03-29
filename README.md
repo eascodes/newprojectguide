@@ -82,5 +82,5 @@ Run `npm install --save-dev eslint-config-prettier`. In your `package.json` file
 ```
 
 ### 5. Upon project completion...
-Follow <a href="https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e" target="_blank">these instructions</a> to deploy your project to GitHub Pages.
+Follow <a href="https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e" target="_blank">these instructions</a> to deploy your project to GitHub Pages. If you need to update the project post-deployment, push changes to your main branch and then run `npm run deploy`.
 
